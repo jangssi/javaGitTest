@@ -17,5 +17,5 @@ public class Main {
 			System.out.println(user.getName()+" "+user.age()+" "user.score());
 		}
 	}
-
+ 
 }
